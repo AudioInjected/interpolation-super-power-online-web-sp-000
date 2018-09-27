@@ -1,6 +1,7 @@
 # Write your #display_rainbow method here
-def display_rainbow[1, 2]
-  puts "R: #{display_rainbow[0]}"
+def display_rainbow
+  rainbow = ["red", "orange"]
+  puts "R: #{rainbow[0]}"
 end
 
 display_rainbow
